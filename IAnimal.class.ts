@@ -1,0 +1,3 @@
+interface IAnimal{
+  respirer():boolean;
+}
